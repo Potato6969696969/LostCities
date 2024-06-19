@@ -19,11 +19,11 @@
               }
             }
           ],
-          "weight": 2
+          "weight": 3
         },
         {
           "type": "item",
-          "name": "minecraft:gold_ingot",
+          "name": "minecraft:command_block",
           "functions": [
             {
               "function": "set_count",
